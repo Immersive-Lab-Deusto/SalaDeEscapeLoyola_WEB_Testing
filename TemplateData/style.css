@@ -16,3 +16,4 @@ body { padding: 0; margin: 0 }
 #unity-mobile-warning { position: absolute; left: 50%; top: 5%; transform: translate(-50%); background: white; padding: 10px; display: none }
 #controls-info { position: relative; background: grey; margin-top: 50px }
 #controls-info-text { color: white }
+p { text-align:left }
